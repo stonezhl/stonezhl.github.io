@@ -425,7 +425,7 @@ This part of code fetches exactly one **manifest** element and makes a dictionar
 </package>
 ```
 
-All the **itemref** elements are in order, and you can find the corresponding manifest item by the **idref **attribute which is same as manifest item’s **id** attribute. Let’s write code to fetch all the **idref** attributes:
+All the **itemref** elements are in order, and you can find the corresponding manifest item by the **idref** attribute which is same as manifest item’s **id** attribute. Let’s write code to fetch all the **idref** attributes:
 
 ``` swift
 import Kanna
